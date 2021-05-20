@@ -70,7 +70,8 @@ The answer is simple: The business pays. Deadlines may get pushed back; approval
 | Approvals are rushed, mistakes are made | Approvals take longer |
 | People burn out, project output is reduced, project is rescheduled | Deadlines get pushed back ahead of time |
 | People quit, creates resource contention | Deadlines get pushed back ahead of time |
-| *Impact of Personal Tax vs Business Tax* ||
+*Impact of Personal Tax vs Business Tax*
+
 
 
 \*\*\* By design we are creating a business environment for our people to be irritable, unreliable, and to resign.
