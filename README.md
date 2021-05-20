@@ -119,7 +119,7 @@ Similarly, there is no point declaring &quot;Friday a no meeting day&quot; for a
 
 ## Shifting Sands Tax
 
-A broadly known but rarely remembered fact: Time zones change throughout the year.
+A broadly known but rarely remembered fact: Time zones change throughout the year.  In fact, for more than 1/6 of the year, time zones are changing.
 
 Day light savings is observed across many countries and can vary by state, resulting in a meeting at 8am, to now be at 6am without anything being rescheduled. This does not impact the scheduler directly, as the meeting will still be at their original time. It does however impact the scheduler indirectly since attendees may miss meetings or decline.
 
