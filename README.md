@@ -19,29 +19,22 @@ The observations outlined here are assuming a global team across the widest poss
 - [Logistical Taxes](#logistical-taxes-1)
   * [Working Hours Tax](#working-hours-tax)
   * [Working Week Tax](#working-week-tax)
-    + [Approaches](#approaches)
   * [Day of Week Tax](#day-of-week-tax)
-    + [Approach](#approach)
   * [Shifting Sands Tax](#shifting-sands-tax)
 - [Inclusion Taxes](#inclusion-taxes-1)
   * [Short Deadline Tax](#short-deadline-tax)
   * [Late Reminder Tax](#late-reminder-tax)
   * [Doors Are Open Tax](#doors-are-open-tax)
-    + [Approach](#approach-1)
   * [Absentee Dialogue Tax](#absentee-dialogue-tax)
   * [Prime Meridian Tax](#prime-meridian-tax)
-    + [Approach](#approach-2)
   * [Short Night Tax](#short-night-tax)
   * [Long Day Tax](#long-day-tax)
   * [Clarification Tax](#clarification-tax)
   * [Global Live Event Tax](#global-live-event-tax)
   * [While You Were Sleeping Tax](#while-you-were-sleeping-tax)
   * [Obligation Tax](#obligation-tax)
-    + [Approach](#approach-3)
   * [Date Format Tax](#date-format-tax)
-    + [Approach](#approach-4)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Time Zones
