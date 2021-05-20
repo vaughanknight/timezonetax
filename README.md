@@ -10,51 +10,51 @@ While we have many tools to help us understand the time around the world, the to
 
 The observations outlined here are assuming a global team across the widest possible time zone split. Think more along the lines of Auckland to Los Angeles, where the time difference heads close to 24 hours. Not all the following will apply to 4–5-hour time zone shifts, but many of it still will apply. Your mileage may vary.
 
-[Time Zones 3](#_Toc72405980)
+[Time Zones](#_Toc72405980)
 
-[Understanding 3](#_Toc72405981)
+[Understanding](#_Toc72405981)
 
-[Logistical Taxes 3](#_Toc72405982)
+[Logistical Taxes](#_Toc72405982)
 
-[Inclusion Taxes 3](#_Toc72405983)
+[Inclusion Taxes](#_Toc72405983)
 
-[Paying Taxes 3](#_Toc72405984)
+[Paying Taxes](#_Toc72405984)
 
-[Logistical Taxes 4](#_Toc72405985)
+[Logistical Taxes](#_Toc72405985)
 
-[Working Hours Tax 4](#_Toc72405986)
+[Working Hours Tax](#_Toc72405986)
 
-[Working Week Tax 5](#_Toc72405987)
+[Working Week Tax](#_Toc72405987)
 
-[Day of Week Tax 6](#_Toc72405988)
+[Day of Week Tax](#_Toc72405988)
 
-[Shifting Sands Tax 6](#_Toc72405989)
+[Shifting Sands Tax](#_Toc72405989)
 
-[Inclusion Taxes 7](#_Toc72405990)
+[Inclusion Taxes](#_Toc72405990)
 
-[Short Deadline Tax 7](#_Toc72405991)
+[Short Deadline Tax](#_Toc72405991)
 
-[Late Reminder Tax 7](#_Toc72405992)
+[Late Reminder Tax](#_Toc72405992)
 
-[Doors Are Open Tax 7](#_Toc72405993)
+[Doors Are Open Tax](#_Toc72405993)
 
-[Absentee Dialogue Tax 7](#_Toc72405994)
+[Absentee Dialogue Tax](#_Toc72405994)
 
-[Prime Meridian Tax 7](#_Toc72405995)
+[Prime Meridian Tax](#_Toc72405995)
 
-[Short Night Tax 7](#_Toc72405996)
+[Short Night Tax](#_Toc72405996)
 
-[Long Day Tax 8](#_Toc72405997)
+[Long Day Tax](#_Toc72405997)
 
-[Clarification Tax 8](#_Toc72405998)
+[Clarification Tax](#_Toc72405998)
 
-[Global Event Tax 8](#_Toc72405999)
+[Global Event Tax](#_Toc72405999)
 
-[While You Were Sleeping Tax 8](#_Toc72406000)
+[While You Were Sleeping Tax](#_Toc72406000)
 
-[Obligation Tax 8](#_Toc72406001)
+[Obligation Tax](#_Toc72406001)
 
-[Date Format Tax 8](#_Toc72406002)
+[Date Format Tax](#_Toc72406002)
 
 # Time Zones
 
