@@ -70,7 +70,8 @@ The answer is simple: The business pays. Deadlines may get pushed back; approval
 | Approvals are rushed, mistakes are made | Approvals take longer |
 | People burn out, project output is reduced, project is rescheduled | Deadlines get pushed back ahead of time |
 | People quit, creates resource contention | Deadlines get pushed back ahead of time |
-| THe people and business outcomes are unpredictable | The people and business outcomes are predictable |
+| The people and business outcomes are unpredictable | The people and business outcomes are predictable |
+| The tax is not observable and therefore can not be measured or addressed | The tax is observable and can be measured and addressed | 
 
 <sup>**Table 1** - Impact of Personal Tax vs Business Tax</sup>
 
