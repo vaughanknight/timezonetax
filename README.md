@@ -10,51 +10,39 @@ While we have many tools to help us understand the time around the world, the to
 
 The observations outlined here are assuming a global team across the widest possible time zone split. Think more along the lines of Auckland to Los Angeles, where the time difference heads close to 24 hours. Not all the following will apply to 4–5-hour time zone shifts, but many of it still will apply. Your mileage may vary.
 
-[Time Zones](#_Toc72405980)
+- [The Time Zone Tax](#the-time-zone-tax)
+- [Time Zones](#time-zones)
+- [Understanding](#understanding)
+  * [Logistical Taxes](#logistical-taxes)
+  * [Inclusion Taxes](#inclusion-taxes)
+- [Paying Taxes](#paying-taxes)
+- [Logistical Taxes](#logistical-taxes-1)
+  * [Working Hours Tax](#working-hours-tax)
+  * [Working Week Tax](#working-week-tax)
+    + [Approaches](#approaches)
+  * [Day of Week Tax](#day-of-week-tax)
+    + [Approach](#approach)
+  * [Shifting Sands Tax](#shifting-sands-tax)
+- [Inclusion Taxes](#inclusion-taxes-1)
+  * [Short Deadline Tax](#short-deadline-tax)
+  * [Late Reminder Tax](#late-reminder-tax)
+  * [Doors Are Open Tax](#doors-are-open-tax)
+    + [Approach](#approach-1)
+  * [Absentee Dialogue Tax](#absentee-dialogue-tax)
+  * [Prime Meridian Tax](#prime-meridian-tax)
+    + [Approach](#approach-2)
+  * [Short Night Tax](#short-night-tax)
+  * [Long Day Tax](#long-day-tax)
+  * [Clarification Tax](#clarification-tax)
+  * [Global Live Event Tax](#global-live-event-tax)
+  * [While You Were Sleeping Tax](#while-you-were-sleeping-tax)
+  * [Obligation Tax](#obligation-tax)
+    + [Approach](#approach-3)
+  * [Date Format Tax](#date-format-tax)
+    + [Approach](#approach-4)
 
-[Understanding](#_Toc72405981)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-[Logistical Taxes](#_Toc72405982)
-
-[Inclusion Taxes](#_Toc72405983)
-
-[Paying Taxes](#_Toc72405984)
-
-[Logistical Taxes](#_Toc72405985)
-
-[Working Hours Tax](#_Toc72405986)
-
-[Working Week Tax](#_Toc72405987)
-
-[Day of Week Tax](#_Toc72405988)
-
-[Shifting Sands Tax](#_Toc72405989)
-
-[Inclusion Taxes](#_Toc72405990)
-
-[Short Deadline Tax](#_Toc72405991)
-
-[Late Reminder Tax](#_Toc72405992)
-
-[Doors Are Open Tax](#_Toc72405993)
-
-[Absentee Dialogue Tax](#_Toc72405994)
-
-[Prime Meridian Tax](#_Toc72405995)
-
-[Short Night Tax](#_Toc72405996)
-
-[Long Day Tax](#_Toc72405997)
-
-[Clarification Tax](#_Toc72405998)
-
-[Global Event Tax](#_Toc72405999)
-
-[While You Were Sleeping Tax](#_Toc72406000)
-
-[Obligation Tax](#_Toc72406001)
-
-[Date Format Tax](#_Toc72406002)
 
 # Time Zones
 
