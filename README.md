@@ -64,12 +64,13 @@ The aim is to reduce the tax, but in most cases it cannot be removed completely.
 
 The answer is simple: The business pays. Deadlines may get pushed back; approvals may take longer. These are highly visible impacts, and while not desirable, by doing so the business can be more predictable understanding where the cost lies in the business and course correct.
 
-| Personal Tax | Business Tax |
+| Impact of Personal Tax | Impact of Business Tax |
 | --- | --- |
 | Deadlines get missed, and rescheduled | Deadlines get pushed back ahead of time |
 | Approvals are rushed, mistakes are made | Approvals take longer |
 | People burn out, project output is reduced, project is rescheduled | Deadlines get pushed back ahead of time |
 | People quit, creates resource contention | Deadlines get pushed back ahead of time |
+| THe people and business outcomes are unpredictable | The people and business outcomes are predictable |
 
 <sup>**Table 1** - Impact of Personal Tax vs Business Tax</sup>
 
