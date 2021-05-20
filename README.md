@@ -199,12 +199,17 @@ Rather than shifting the time zone tax, consider shifting the meeting times and 
 
 ## Date Format Tax
 
-Occurs when there is confusion between MM DD YYYY and DD MM YYYY when interpreting or proposing dates in writing.
+This is more in relation to how time and date is defined between countries, but as a side effect it often impacts scheduling across time zones.  It occurs when there is confusion between the date formats MM DD YYYY and DD MM YYYY when interpreting or proposing dates in writing.
 
 ### Approach
 
 Use calendar proposal tools for proposing dates for meetings. This also ensures the data and time are defined explicitly.
 
-When writing/creating written dates avoid using numerical months. 01 10 2020 is much clearer as 10 Jan 2020.
+When writing/creating written dates avoid using numerical months. 
+
+| Numerical | Literal |
+| -- | -- |
+| 01.10.2020  | 10 Jan 2020 | 
+| 10.01.2020  | Jan 10 2020 |
 
 When reading/interpreting written date formats, ask for clarification before assuming.
