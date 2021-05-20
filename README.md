@@ -10,7 +10,6 @@ While we have many tools to help us understand the time around the world, the to
 
 The observations outlined here are assuming a global team across the widest possible time zone split. Think more along the lines of Auckland to Los Angeles, where the time difference heads close to 24 hours. Not all the following will apply to 4–5-hour time zone shifts, but many of it still will apply. Your mileage may vary.
 
-- [The Time Zone Tax](#the-time-zone-tax)
 - [Time Zones](#time-zones)
 - [Understanding](#understanding)
   * [Logistical Taxes](#logistical-taxes)
