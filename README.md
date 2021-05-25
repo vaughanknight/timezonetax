@@ -9,7 +9,7 @@ it, you are accumulating time zone debt, and as with all debts, it gains
 interest.
 
 The time zone tax is not simply doing a late meeting with a different time zone,
-or working in a different time zone&\#39;s hours. These are the obvious and very
+or working in a different time zone’s hours. These are the obvious and very
 visible taxes that most people are aware of. “It must be late where you are”
 statements on calls are an acknowledgement of the tax. But the full cost of the
 time zone tax relates to the underlying burden that is paid, the cumulative
@@ -17,7 +17,7 @@ result of the visible taxes, and invisible taxes.
 
 While we have many tools to help us understand the time around the world, the
 tooling is still not good enough. We still miss meetings because day light
-savings just changed, and we still book meetings on someone else&\#39;s public
+savings just changed, and we still book meetings on someone else’s public
 holiday. And we often book meetings unaware of what time zone someone is in.
 
 The observations outlined here are assuming a global team across the widest
@@ -191,7 +191,7 @@ A good rule is to work on a Tuesday to Thursday basis for heavy global
 interaction. How do you select the working week? For what time zone do you
 select Tuesday to Thursday? Los Angeles? Auckland? Paris? The magic here is that
 it does not matter. This habit ensures you will never book something on
-someone&\#39;s Sunday by mistake.
+someone’s Sunday by mistake.
 
 ## Day of Week Tax
 
@@ -309,15 +309,15 @@ exhausted workers make mistakes.
 
 ## Clarification Tax
 
-Someone schedules a meeting in someone else&\#39;s calendar. Unable to accept
-the request, the recipient context switches from their current activity, to
-explain that the meeting was scheduled at 3am their time and suggests an
-appropriate time.
+Someone schedules a meeting in someone else’s calendar. Unable to accept the
+request, the recipient context switches from their current activity, to explain
+that the meeting was scheduled at 3am their time and suggests an appropriate
+time.
 
 This sounds minor, but context switching has a high cost. It impacts
 productivity by 20-40%, and with deep thinking the impact is even high to get
 back into a flow state. That tax is not paid by the sender, and is paid by the
-recipients outside the sender&\#39;s time zone.
+recipients outside the sender’s time zone.
 
 ## Global Live Event Tax
 
