@@ -145,32 +145,33 @@ The time zone tax that most people are aware of is the working hours tax. People
 in different time zones, work at different times. But the working hours tax can
 be caused by more than time zones.
 
-Working hours may vary for many reasons, including:
+Working hours may vary for many reasons, including variation across time zones,
+and adjusted local working hours.
 
--   Nominal work hours in different time zones result in people working at
-    different times.
+Nominal working hours in different time zones result in people working at
+different times.
 
-    -   Jennifer starts work at 9am in Sydney. Her teammate Robert Is in London
-        and starts work at 9am in London, which is in 10 hours. Their working
-        day does not overlap.
+>   Example: Jennifer starts work at 9am in Sydney. Her teammate Robert Is in
+>   London and starts work at 9am in London, which is in 10 hours. Their working
+>   day does not overlap.
 
 ![Website Description automatically generated with medium
 confidence](media/dd3339a74ddf6f27a7c938566e529da6.png)
 
-**Figure 1** Working Hours Shift Due To Time Zones
+Figure 1 Working Hours Shift Due To Time Zones
 
--   [Diagram: Sydney working hours, London Working hours, maybe do 3 i.e.
-    include New York working hours]
+Some employees have a adjusted local working hours, often due to regular
+external commitments, including but not limited to medical and family
+commitments.
 
--   Time shifted working day. For example, adjusted for regular external
-    commitment schedule.
+>   Example: David works an agreed 5am – 3pm schedule every day due to family
+>   commitments.*  
+>   *![](media/03fce84bcdebedeb5400eec2cdc4f218.png)  
+>   **Figure 2** Individual Working Hours Shift To Local Hours
 
-    -   David works an agreed 5am – 3pm schedule every day due to family
-        commitments.
+### Approach
 
-![](media/03fce84bcdebedeb5400eec2cdc4f218.png)
-
-**Figure 2** Individual Working Hours Shift To Local Hours
+TBD
 
 ## Working Week Tax
 
@@ -187,7 +188,7 @@ working week. There are many reasons for this.
 
 -   People may work part time and also have certain days of the week off.
 
-### Approaches
+### Approach
 
 Clear Mondays and Fridays for global rhythm of business interaction activities.
 A good rule is to work on a Tuesday to Thursday basis for heavy global
