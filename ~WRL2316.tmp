@@ -174,39 +174,15 @@ TBD
 The working week tax relates to the fact that not all teams have the same
 working week. There are many reasons for this.
 
-We live in a diverse planet with cultures that observe different working weeks,
-regardless of time zone. Israel for example, has a Sunday to Thursday working
-week.
+-   We live in a diverse planet with cultures that observe different working
+    weeks, regardless of time zone. Israel for example, has a Sunday to Thursday
+    working week.
 
->   Example: Rachel lives in Israel, where her working week is Sunday to
->   Thursday. Laurent, who lives in Paris, has a working week from Monday to
->   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
+-   Due to the international dateline, Monday in Auckland, is Sunday in Los
+    Angeles. This means that there is 4 days of overlap during the working week
+    on a time zone basis.
 
-Similarly, people may work part time (permanently, or temporarily) and take
-leave for certain days of the week. This usually is either a Monday or Friday
-which causes a similar impact to the above. However, when the day of absence is
-mid-week this can cause impacts caused by assumptions that the individual is
-working the full week.
-
->   PLACEHOLDER  
->   Example: Rachel lives in Israel, where her working week is Sunday to
->   Thursday. Laurent, who lives in Paris, has a working week from Monday to
->   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
-
-Due to the international dateline, Monday in Auckland, is Sunday in Los Angeles.
-This means that there is 4 days of overlap during the working week on a time
-zone basis.
-
->   PLACEHOLDER  
->   Example: Rachel lives in Israel, where her working week is Sunday to
->   Thursday. Laurent, who lives in Paris, has a working week from Monday to
->   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
+-   People may work part time and also have certain days of the week off.
 
 ### Approach
 
@@ -296,8 +272,7 @@ are yet able to contribute. Decisions are therefore made without any time zone
 considerations, and not all perspectives were sought.
 
 In addition, often these discussions happen in forums that will no longer be at
-the top of the inbox/collaboration tool for the other time zones when they come
-online.
+the top of the list for the other time zones when they come online.
 
 ## Prime Meridian Tax
 
