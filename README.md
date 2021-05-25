@@ -10,7 +10,7 @@ interest.
 
 The time zone tax is not simply doing a late meeting with a different time zone,
 or working in a different time zone&\#39;s hours. These are the obvious and very
-visible taxes that most people are aware of. &quot;It must be late where you
+visible taxes that most people are aware of. \&quot;It must be late where you
 are&quot; statements on calls are an acknowledgement of the tax. But the full
 cost of the time zone tax relates to the underlying burden that is paid, the
 cumulative result of the visible taxes, and invisible taxes.
@@ -75,8 +75,8 @@ mileage may vary.
 # Time Zones
 
 There are only two types of time zones. Trailing, and leading. Leading time
-zones are those often referred to as &quot;ahead\&quot; in time. Trailing time
-zones are those often referred to as &quot;behind\&quot;. For example:
+zones are those often referred to as \&quot;ahead&quot; in time. Trailing time
+zones are those often referred to as \&quot;behind&quot;. For example:
 
 Sydney, Australia is a leading time zone when compared to London, United
 Kingdom.
@@ -154,7 +154,7 @@ different times.
 >   Example: Jennifer starts work at 9am in Sydney. Her teammate Robert Is in
 >   London and starts work at 9am in London, which is in 10 hours. Their working
 >   day does not overlap.  
->   ![](media/428c9aa8d913b016c4d576b2d46c7bd7.png)  
+>   ![](media/7d1b3ad56f02b91007c22c1802196984.png)  
 >   Figure 1 Working Hours Shift Due To Time Zones
 
 Some employees have adjusted local working hours, often due to regular external
@@ -197,12 +197,12 @@ someone&\#39;s Sunday by mistake.
 
 When working with teams around the world, assume there is zero overlap where the
 day of the week is the same. A team in Japan shares no working day with a team
-in Los Angeles. As such, if someone is saying &quot;hold for Monday&quot; in one
-location, that will not be Monday in the other location.
+in Los Angeles. As such, if someone is saying \&quot;hold for Monday&quot; in
+one location, that will not be Monday in the other location.
 
-Similarly, placeholders in calendars for days i.e. &quot;HOLD FOR CUSTOMER
+Similarly, placeholders in calendars for days i.e. \&quot;HOLD FOR CUSTOMER
 MEETING TO BE SCHEDULED&quot; are guaranteed to be wrong, and will result in the
-opposite of the intended affect. &quot;Full day event&quot; placeholders are
+opposite of the intended affect. \&quot;Full day event&quot; placeholders are
 useful for marking your own availability, or a national holiday, but should
 never be applied to others.
 
@@ -211,7 +211,7 @@ never be applied to others.
 Block the hours in the calendar instead, 8 hours, 12 hours, 24 hours… this will
 then adjust for the day automatically due to adjusting to time zone.
 
-Similarly, there is no point declaring &quot;Friday a no meeting day&quot; for
+Similarly, there is no point declaring \&quot;Friday a no meeting day&quot; for
 all unless trailing time zones observe this on a Thursday.
 
 ## Shifting Sands Tax
@@ -252,13 +252,13 @@ likely past the deadline in a leading time zone.
 ## Doors Are Open Tax
 
 This happens when there is limited allocation for an opportunity, for example
-&quot;register quick, spots are limited!!&quot;. The time zone of the
+\&quot;register quick, spots are limited!!&quot;. The time zone of the
 announcement benefits more than others as they can respond immediately.
 
 While this can occur in any time zone, leading or trailing. There are two common
-ways to increase the impact of this. One way is to &quot;open doors&quot; on a
+ways to increase the impact of this. One way is to \&quot;open doors&quot; on a
 Monday morning in the leading time zone (\~24-hour impact to trailing time
-zone). The highest impact scenario is to &quot;open doors&quot; on Friday in a
+zone). The highest impact scenario is to \&quot;open doors&quot; on Friday in a
 trailing time zone (\~48-hour impact to the leading time zone).
 
 ### Approach
@@ -279,7 +279,7 @@ the top of the list for the other time zones when they come online.
 The prime meridian is an imaginary line that splits the world vertically to
 create two equal vertical hemispheres, often referred to as the East and West.
 For globally spread teams, this is commonly used to create two
-&quot;inclusive\&quot; zones for global meetings and rhythms. This assumes a
+\&quot;inclusive&quot; zones for global meetings and rhythms. This assumes a
 work cycle of 12 hours. The team members at the edges of the zones will
 routinely be pay a much higher tax by design.
 
