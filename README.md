@@ -75,8 +75,8 @@ mileage may vary.
 # Time Zones
 
 There are only two types of time zones. Trailing, and leading. Leading time
-zones are those often referred to as &quot;ahead\&quot; in time. Trailing time
-zones are those often referred to as &quot;behind\&quot;. For example:
+zones are those often referred to as &quot;ahead&quot; in time. Trailing time
+zones are those often referred to as &quot;behind&quot;. For example:
 
 Sydney, Australia is a leading time zone when compared to London, United
 Kingdom.
@@ -283,9 +283,9 @@ the top of the list for the other time zones when they come online.
 The prime meridian is an imaginary line that splits the world vertically to
 create two equal vertical hemispheres, often referred to as the East and West.
 For globally spread teams, this is commonly used to create two
-&quot;inclusive\&quot; zones for global meetings and rhythms. This assumes a
-work cycle of 12 hours. The team members at the edges of the zones will
-routinely be pay a much higher tax by design.
+&quot;inclusive&quot; zones for global meetings and rhythms. This assumes a work
+cycle of 12 hours. The team members at the edges of the zones will routinely be
+pay a much higher tax by design.
 
 ### Approach
 
