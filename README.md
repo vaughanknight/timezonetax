@@ -75,8 +75,8 @@ mileage may vary.
 # Time Zones
 
 There are only two types of time zones. Trailing, and leading. Leading time
-zones are those often referred to as &quot;ahead&quot; in time. Trailing time
-zones are those often referred to as &quot;behind&quot;. For example:
+zones are those often referred to as &quot;ahead\&quot; in time. Trailing time
+zones are those often referred to as &quot;behind\&quot;. For example:
 
 Sydney, Australia is a leading time zone when compared to London, United
 Kingdom.
@@ -154,7 +154,13 @@ Working hours may vary for many reasons, including:
         and starts work at 9am in London, which is in 10 hours. Their working
         day does not overlap.
 
-    -   [Sydney working hours, London Working hours, New York working hours]
+![Website Description automatically generated with medium
+confidence](media/dd3339a74ddf6f27a7c938566e529da6.png)
+
+**Figure 1** Working Hours Shift Due To Time Zones
+
+-   [Diagram: Sydney working hours, London Working hours, maybe do 3 i.e.
+    include New York working hours]
 
 -   Time shifted working day. For example, adjusted for regular external
     commitment schedule.
@@ -162,7 +168,9 @@ Working hours may vary for many reasons, including:
     -   David works an agreed 5am – 3pm schedule every day due to family
         commitments.
 
-    -   [David to local time]
+![](media/03fce84bcdebedeb5400eec2cdc4f218.png)
+
+**Figure 2** Individual Working Hours Shift To Local Hours
 
 ## Working Week Tax
 
@@ -274,9 +282,9 @@ the top of the list for the other time zones when they come online.
 The prime meridian is an imaginary line that splits the world vertically to
 create two equal vertical hemispheres, often referred to as the East and West.
 For globally spread teams, this is commonly used to create two
-&quot;inclusive&quot; zones for global meetings and rhythms. This assumes a work
-cycle of 12 hours. The team members at the edges of the zones will routinely be
-pay a much higher tax by design.
+&quot;inclusive\&quot; zones for global meetings and rhythms. This assumes a
+work cycle of 12 hours. The team members at the edges of the zones will
+routinely be pay a much higher tax by design.
 
 ### Approach
 
