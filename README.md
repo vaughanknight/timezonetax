@@ -1,7 +1,7 @@
 # The Time Zone Tax
 
 The time zone tax refers to the human cost associated with working across time
-zones. Like financial taxes, the time zone comes in many forms.
+zones. Like financial taxes, time zone tax comes in many forms.
 
 Working across time zones always incurs a tax. Like all taxes they need to be
 paid. If you think you are not paying it, someone else is. If no one is paying
