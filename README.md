@@ -224,11 +224,25 @@ day of the week is the same. A team in Japan shares no working day with a team
 in Los Angeles. As such, if someone is saying “hold for Monday” in one location,
 that will not be Monday in the other location.
 
+>   PLACEHOLDER  
+>   Example: Rachel lives in Israel, where her working week is Sunday to
+>   Thursday. Laurent, who lives in Paris, has a working week from Monday to
+>   Friday. Their working week overlaps for 4 days.  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
+
 Similarly, placeholders in calendars for days i.e. “HOLD FOR CUSTOMER MEETING TO
 BE SCHEDULED” are guaranteed to be wrong, and will result in the opposite of the
 intended affect. Full day event placeholders are useful for marking your own
 availability, or a national holiday, but should be avoided when applied to
 others outside your time zone.
+
+>   PLACEHOLDER  
+>   Example: Rachel lives in Israel, where her working week is Sunday to
+>   Thursday. Laurent, who lives in Paris, has a working week from Monday to
+>   Friday. Their working week overlaps for 4 days.  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 ### Approach
 
@@ -243,11 +257,20 @@ trailing time zones observe this on a Thursday.
 A broadly known but rarely remembered fact: Time zones change throughout the
 year. In fact, for more than 1/6 of the year, time zones are changing.
 
+>   PLACEHOLDER   
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Show time of year that time zones are changing
+
 Day light savings is observed across many countries and can vary by state,
 resulting in a meeting at 8am, to now be at 6am without anything being
 rescheduled. This does not impact the scheduler directly, as the meeting will
 still be at their original time. It does however impact the scheduler indirectly
 since attendees may miss meetings or decline.
+
+>   PLACEHOLDER  
+>   Example: State by state might not be needed   
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 Daylight rolls out across various countries over approximately a one-month
 period. Throughout the month when time zone changes happen (twice per year),
@@ -256,6 +279,11 @@ to handle this is to put forethought into how this impacts everyone on the
 meeting, communicate, and adjust accordingly. Since times for meetings may need
 to be rescheduled significantly, these can be good months to reduce meetings
 while they are rescheduled.
+
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 # Inclusion Taxes
 
@@ -266,12 +294,22 @@ difference across time zones. If today is Tuesday in a trailing time zone, a
 Friday deadline is 3 days away, in a leading time zone it is 2 days away. This
 is a 50% difference in terms of time provided to people to deliver.
 
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
+
 ## Late Reminder Tax
 
 Reminding people of deadlines from a trailing time zone when it is already too
 late for those in leading time zones. Similar to the short deadline tax, a
 Friday morning reminder for a Friday COB deadline in a trailing time zone, is
 likely past the deadline in a leading time zone.
+
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 ## Doors Are Open Tax
 
@@ -284,6 +322,11 @@ ways to increase the impact of this. One way is to “open doors” on a Monday
 morning in the leading time zone (\~24-hour impact to trailing time zone). The
 highest impact scenario is to “open doors” on Friday in a trailing time zone
 (\~48-hour impact to the leading time zone).
+
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 ### Approach
 
@@ -308,6 +351,11 @@ for global meetings and rhythms. This assumes a work cycle of 12 hours. The team
 members at the edges of the zones will routinely be pay a much higher tax by
 design.
 
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
+
 ### Approach
 
 Have 3 x 8-hour time zones for regular global rhythms, with minimal overlap, and
@@ -323,6 +371,11 @@ We do not get the best out of people when we burn the candle at both ends, and
 when we do this by design, we are intentionally burning our people out and
 willingly creating an environment for poor performance.
 
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
+
 ## Long Day Tax
 
 Having commitments to do an early meeting, while having commitment to do a late
@@ -331,6 +384,11 @@ exhaustion, and inability to focus in the second meeting.
 
 Stretching team members thin does not allow them to do their best work, and
 exhausted workers make mistakes.
+
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 ## Clarification Tax
 
@@ -344,11 +402,21 @@ productivity by 20-40%, and with deep thinking the impact is even high to get
 back into a flow state. That tax is not paid by the sender, and is paid by the
 recipients outside the sender’s time zone.
 
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
+
 ## Global Live Event Tax
 
 For truly global activities, start them on the same day and roll them around the
 world. Have recordings that people can re-watch in their own time, and schedule
 group viewing meetings.
+
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 Avoid scheduling a 5-day live event for everyone, as a maximum 4 days can be
 inclusive of most people.
@@ -358,12 +426,22 @@ inclusive of most people.
 Someone gets up early to join a meeting, only find it was cancelled while they
 were sleeping.
 
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
+
 ## Obligation Tax
 
 Making someone obliged to do a meeting out of time zone simply because others
 have done this. Often a mitigation strategy, sharing can stop people from
 burning out or breaking, but this simply distributes the tax across an entire
 team. The aim should be to reduce the time zone tax, not force it on others.
+
+>   PLACEHOLDER  
+>   Example: Over the month how calendars will look week by week  
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
 
 ### Approach
 
@@ -378,7 +456,13 @@ that would have happened regardless, and are now in the right time zone.
 This is more in relation to how time and date is defined between countries, but
 as a side effect it often impacts scheduling across time zones. It occurs when
 there is confusion between the date formats MM DD YYYY and DD MM YYYY when
-interpreting or proposing dates in writing.
+interpreting or proposing dates in writing. This is compounded more when MM/DD
+is written as a shorthand, i.e. 5/6.
+
+| Who       | Written Communication                             | Impact                                                                                        |
+|-----------|---------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Sender    | I will schedule the meeting in Seattle on **5/6** | None. Book meeting rooms mid may for meeting to take place on **5th of June**.                |
+| Recipient | I will schedule the meeting in Seattle on **5/6** | Book flights to fly to Seattle and turn up on the **6th of May**, meeting is not for a month. |
 
 ### Approach
 
