@@ -154,16 +154,16 @@ different times.
 >   Example: Jennifer starts work at 9am in Sydney. Her teammate Robert Is in
 >   London and starts work at 9am in London, which is in 10 hours. Their working
 >   day does not overlap.  
->   ![](media/7d1b3ad56f02b91007c22c1802196984.png)  
->   **Figure 1** Working Hours Shift Due To Time Zones
+>   ![](media/7d1b3ad56f02b91007c22c1802196984.png)**Figure 1** Working Hours
+>   Shift Due To Time Zones
 
 Some employees have adjusted local working hours, often due to regular external
 commitments, including but not limited to medical and family commitments.
 
 >   Example: David works an agreed 5am – 3pm schedule every day due to family
 >   commitments.  
->   **![](media/ca6b640ee7d0a113085eb86694b628f7.png)**  
->   **Figure 2** Individual Working Hours Shift To Local Hours
+>   **![](media/ca6b640ee7d0a113085eb86694b628f7.png)Figure 2** Individual
+>   Working Hours Shift To Local Hours
 
 ### Approach
 
@@ -181,32 +181,29 @@ week.
 >   Example: Rachel lives in Israel, where her working week is Sunday to
 >   Thursday. Laurent, who lives in Paris, has a working week from Monday to
 >   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)**Figure 3** Working Week
+>   Shifted in Same Time Zone
 
-Similarly, people may work part time (permanently, or temporarily) and take
-leave for certain days of the week. This usually is either a Monday or Friday
-which causes a similar impact to the above. However, when the day of absence is
-mid-week this can cause impacts caused by assumptions that the individual is
-working the full week.
+Similarly, people may work part time (long-term or short-term) and take leave
+for certain days of the week. This usually is either a Monday or Friday which
+causes a similar impact to the above, however the day of absence may also be
+mid-week. Impacts occur due to assumptions that the individual is working the
+full week.
 
->   PLACEHOLDER  
->   Example: Rachel lives in Israel, where her working week is Sunday to
->   Thursday. Laurent, who lives in Paris, has a working week from Monday to
->   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
+>   Example: Petro works a 5-day week. Kristofer works a 4-day week permanently
+>   Monday-Thursday. Naomi usually works a 5-day week, but currently works a
+>   4-day week as a short-term arrangement, and as such does not work Thursdays.
+>   
+>   ![](media/9be5e70a1c5efe8724e8bdc8f9524d82.png)**Figure 3** Working Week
+>   Shifted in Same Time Zone
 
 Due to the international dateline, Monday in Auckland, is Sunday in Los Angeles.
-This means that there is 4 days of overlap during the working week on a time
-zone basis.
+Their working days overlap 3-5 hours depending on the time of year. While their
+working day is similar, the day of week between each location is different. This
+means that there is 4 days of overlap of their working week.
 
->   PLACEHOLDER  
->   Example: Rachel lives in Israel, where her working week is Sunday to
->   Thursday. Laurent, who lives in Paris, has a working week from Monday to
->   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
+>   ![](media/3d553273fbf5563669b69f86b96325c0.png)**Figure 3** Working Week
+>   Shifted Due to Time Zone
 
 ### Approach
 
@@ -234,7 +231,7 @@ zone.
 >   overlaps with Tuesday for Alyssa. Alyssa moved Monday activities to Tuesday
 >   to clear her schedule and is now less likely to have time on Tuesday for the
 >   meeting.  
->   ![](media/847b374baa0ef151d69e65867ce2538a.png)**Figure 6** Day of Week
+>   ![](media/a173e67daba5b377f06c3e1a64ddf3bb.png)**Figure 6** Day of Week
 >   Alignment
 
 ### Approach
