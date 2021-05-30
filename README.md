@@ -222,27 +222,20 @@ someone’s Sunday by mistake.
 When working with teams around the world, assume there is zero overlap where the
 day of the week is the same. A team in Japan shares no working day with a team
 in Los Angeles. As such, if someone is saying “hold for Monday” in one location,
-that will not be Monday in the other location.
+that will not be Monday in the other location. For global teams, placeholders in
+calendars for days i.e. “HOLD FOR CUSTOMER MEETING TO BE SCHEDULED” are
+guaranteed to be wrong, and will result in the opposite of the intended affect.
+Full day event placeholders are useful for marking your own availability, or a
+national holiday, but should be avoided when applied to others outside your time
+zone.
 
->   PLACEHOLDER  
->   Example: Rachel lives in Israel, where her working week is Sunday to
->   Thursday. Laurent, who lives in Paris, has a working week from Monday to
->   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
-
-Similarly, placeholders in calendars for days i.e. “HOLD FOR CUSTOMER MEETING TO
-BE SCHEDULED” are guaranteed to be wrong, and will result in the opposite of the
-intended affect. Full day event placeholders are useful for marking your own
-availability, or a national holiday, but should be avoided when applied to
-others outside your time zone.
-
->   PLACEHOLDER  
->   Example: Rachel lives in Israel, where her working week is Sunday to
->   Thursday. Laurent, who lives in Paris, has a working week from Monday to
->   Friday. Their working week overlaps for 4 days.  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
+>   Example: Alyssa lives in Auckland and was asked to “hold Monday for a
+>   meeting” by Charles who is based in Los Angeles. However, Monday for Charles
+>   overlaps with Tuesday for Alyssa. Alyssa moved Monday activities to Tuesday
+>   to clear her schedule and is now less likely to have time on Tuesday for the
+>   meeting.  
+>   ![](media/847b374baa0ef151d69e65867ce2538a.png)**Figure 6** Day of Week
+>   Alignment
 
 ### Approach
 
