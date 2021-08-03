@@ -68,6 +68,8 @@ mileage may vary.
 
     -   [While You Were Sleeping Tax](#while-you-were-sleeping-tax)
 
+    -   [False Urgency Tax](#false-urgency-tax)
+
     -   [Obligation Tax](#obligation-tax)
 
     -   [Date Format Tax](#date-format-tax)
@@ -420,6 +422,27 @@ were sleeping.
 >   Example: Over the month how calendars will look week by week  
 >   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
 >   **Figure 3** Working Week Shifted in Same Time Zone
+
+## False Urgency Tax
+
+Real-time communication across time zones may create a false sense of urgency for 
+someone to respond outside their working hours.  
+
+>   PLACEHOLDER  
+>   Example: Anna in Germany sends an instant messages asking Hiroto (her direct 
+>   report in Japan) for something that's not time sensitive.  While Anna sends the
+>   message during her working hours, Hiroto receives it during his non-working 
+>   hours.  Receiving requests particularly from a manager during non-working hours
+>   can create a false sense of urgency.
+>    
+>   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
+>   **Figure 3** Working Week Shifted in Same Time Zone
+
+### Approach
+If your messaging app supports it, use "delay send" features to queue non-urgent 
+messages, so that they are sent during the recipients working hours.  Make sure 
+that non-urgent messages are clearly identified as such with prefixes like 
+"not urgent", "don't respond until tomorrow", etc.
 
 ## Obligation Tax
 
