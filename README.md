@@ -163,7 +163,7 @@ commitments, including but not limited to medical and family commitments.
 >   Example: David works an agreed 5am – 3pm schedule every day due to family
 >   commitments.  
 >   **![](media/ca6b640ee7d0a113085eb86694b628f7.png)Figure 2** Individual
->   Working Hours Shift To Local Hours
+>   Working Hours Shift In Relation To Local Hours
 
 ### Approach
 
@@ -193,7 +193,7 @@ full week.
 >   Example: Petro works a 5-day week. Kristofer works a 4-day week permanently
 >   Monday-Thursday. Naomi usually works a 5-day week, but currently works a
 >   4-day week as a short-term arrangement, and as such does not work Thursdays.
->   
+
 >   ![](media/9be5e70a1c5efe8724e8bdc8f9524d82.png)**Figure 3** Working Week
 >   Shifted in Same Time Zone
 
@@ -232,7 +232,7 @@ zone.
 >   to clear her schedule and is now less likely to have time on Tuesday for the
 >   meeting.  
 >   ![](media/a173e67daba5b377f06c3e1a64ddf3bb.png)**Figure 6** Day of Week
->   Alignment
+>   Misalignment
 
 ### Approach
 
@@ -242,38 +242,46 @@ then adjust for the day automatically due to adjusting to time zone.
 Similarly, there is no point declaring “Friday a no meeting day” for all unless
 trailing time zones observe this on a Thursday.
 
+## Time of Day Tax
+
+Shifting modes based on your time of day, when others are at different times in
+their day, and operating level of the call is impacted. A good example is to
+what may be referred to as the “It Is Always 5pm Somewhere Tax” where a late
+afternoon call may \<dissolve\> into people talking about dinner as they wrap up
+the day, saying they have been in back to back meetings all day, when others are
+focusing.
+
+Incompatibility across modes.
+
 ## Shifting Sands Tax
 
 A broadly known but rarely remembered fact: Time zones change throughout the
-year. In fact, for more than 1/6 of the year, time zones are changing.
+year. In fact, often for more than 20% of the year, time zones are in a state of
+flux across the planet. The common periods when daylight savings changes may
+impact scheduling are through April and May, and again through October and
+November. Daylight savings dates vary each year, and in some cases can occur
+well outside this range for various reasons.
 
->   PLACEHOLDER   
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Show time of year that time zones are changing
+>   ![](media/63e4afa0e967b6d3e1584c8efcb701bb.png)**Figure 3** Common Daylight
+>   Savings Change Period
 
-Day light savings is observed across many countries and can vary by state,
-resulting in a meeting at 8am, to now be at 6am without anything being
-rescheduled. This does not impact the scheduler directly, as the meeting will
-still be at their original time. It does however impact the scheduler indirectly
-since attendees may miss meetings or decline.
-
->   PLACEHOLDER  
->   Example: State by state might not be needed   
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
-
-Daylight rolls out across various countries over approximately a one-month
-period. Throughout the month when time zone changes happen (twice per year),
-like shifting sands, the meetings start to move through calendars. The only way
-to handle this is to put forethought into how this impacts everyone on the
-meeting, communicate, and adjust accordingly. Since times for meetings may need
-to be rescheduled significantly, these can be good months to reduce meetings
-while they are rescheduled.
+Daylight savings rolls out across various countries over approximately a
+one-month period. Throughout the month when time zone changes happen (twice per
+year), like shifting sands, the meetings start to move through calendars. The
+only way to handle this is to put forethought into how this impacts everyone on
+the meeting, communicate, and adjust accordingly. Since times for meetings may
+need to be rescheduled significantly, these can be good months to reduce
+meetings while they are rescheduled.
 
 >   PLACEHOLDER  
 >   Example: Over the month how calendars will look week by week  
 >   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
 >   **Figure 3** Working Week Shifted in Same Time Zone
+
+A meeting at 8am, the next week will be 7am, and the following week 6am without
+anything being rescheduled. This does not impact the scheduler directly, as the
+meeting will still be at their original time. It does however impact the
+scheduler indirectly since attendees may miss meetings or decline.
 
 # Inclusion Taxes
 
@@ -296,10 +304,12 @@ late for those in leading time zones. Similar to the short deadline tax, a
 Friday morning reminder for a Friday COB deadline in a trailing time zone, is
 likely past the deadline in a leading time zone.
 
->   PLACEHOLDER  
->   Example: Over the month how calendars will look week by week  
->   ![](media/340f8091b189365ce8b8c8d88a33477e.png)  
->   **Figure 3** Working Week Shifted in Same Time Zone
+>   Example: A team in Los Angeles are reminded of something due on Friday on
+>   their Friday morning. This is 12 hours after the team in Auckland has
+>   finished their Friday.  
+>   ![](media/0c1e1520e389c572189e26f5403dd990.png)**Figure 3** Late reminders
+>   after the end of the working week in Auckland, at the start of a Friday in
+>   Los Angeles
 
 ## Doors Are Open Tax
 
